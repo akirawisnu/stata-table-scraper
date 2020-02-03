@@ -9,7 +9,6 @@ In order to utilize the tools:
 1. Run both do files from your main do file
   example: 
   
-  * do "$syntax/0_scraplist.do"
   * do "$syntax/0_scraptable.do"
   
 2. Run the program: 
